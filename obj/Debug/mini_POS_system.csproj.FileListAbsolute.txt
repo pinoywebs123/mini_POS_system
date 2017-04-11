@@ -1,0 +1,9 @@
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\bin\Debug\mini_POS_system.exe.config
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\bin\Debug\mini_POS_system.exe
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\bin\Debug\mini_POS_system.pdb
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\obj\Debug\mini_POS_system.csprojResolveAssemblyReference.cache
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\obj\Debug\mini_POS_system.Form1.resources
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\obj\Debug\mini_POS_system.Properties.Resources.resources
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\obj\Debug\mini_POS_system.csproj.GenerateResource.Cache
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\obj\Debug\mini_POS_system.exe
+c:\users\moravelsharp\documents\visual studio 2015\Projects\mini_POS_system\mini_POS_system\obj\Debug\mini_POS_system.pdb
